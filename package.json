@@ -1,0 +1,22 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggievu/learn-graphql.git"
+  },
+  "author": "Maggie Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maggievu/learn-graphql/issues"
+  },
+  "homepage": "https://github.com/maggievu/learn-graphql#readme",
+  "dependencies": {
+    "graphql": "^14.5.8"
+  }
+}
